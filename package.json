@@ -1,0 +1,23 @@
+{
+  "name": "docker-template",
+  "version": "0.1.0",
+  "description": "Docker Multistage Build Template",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/thesaddest/docker-multistage-template.git)"
+  },
+  "keywords": [
+    "docker",
+    "template"
+  ],
+  "author": "Artsem Shauchuk",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
